@@ -1,6 +1,8 @@
 # Android_flask
 这是一个基于falsk结构的后端，返回XGBoost算法运行前后的各种信息
 
+### 一:Pipline
+![pipline](https://github.com/zzhongying/Android_flask_12.23/blob/b1c0450318355b107b7be8be63923ca7451b3117/images/pipline3.png)
 ### 系统结构
 > 每个文件夹的意义
 1. data_process，由于每个数据集的情况都不相同，可能属性名称不一致，也可能是因为有多个文件，需要合并。因此在本系统中统一规定数
