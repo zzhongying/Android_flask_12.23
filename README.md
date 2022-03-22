@@ -1,6 +1,6 @@
 ## 一：项目介绍
 在众多机器学习算法中, XGBoost算法凭借其更少的训练时间与更高的准确率广泛应用于Kaggle竞赛及各类数据分析项目。以安卓恶意软件数据为基础，交互式可视化技术为手段，借助XGBoost分析样本行为特征、帮助安全管理人员理解安全决策过程。本系统设计新颖的可视视图定位异常决策节点，构建基于“中心类”思想的错误分析模型，借助矩阵算法特征工程的优化调整，模型性能的提升提供一定的参考。
-
+![system](https://github.com/zzhongying/Android_flask_12.23/blob/f644c2794781a620a66a3305fae47b5eec848502/images/system4.png)
 ### 一:Pipline
 ![pipline](https://github.com/zzhongying/Android_flask_12.23/blob/b1c0450318355b107b7be8be63923ca7451b3117/images/pipline3.png)
 ### 系统结构
